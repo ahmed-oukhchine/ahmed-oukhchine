@@ -19,7 +19,7 @@ I'm a software engineering student interested in **cybersecurity**, secure appli
 
 ## Education
 - **DBT in Networking, cloud and Cybersecurity** — EST Kelaa des Seraghna(2026—present)
-- **DUT in Software Engineering & Cybersecurity** — EST Nador (2025–2026)
+- **DUT in Software Engineering & Cybersecurity** — EST Nador (2024–2026)
 - **Baccalauréat in Physical Sciences & Chemistry** — 2024
 
 I'm always learning and looking for opportunities to grow in software development and cybersecurity.
